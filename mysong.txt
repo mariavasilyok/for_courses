@@ -6,7 +6,3 @@ potomu chto ne mogu napisat kod
 
 some content
 and more
-
-branch
-no
-bug
