@@ -3,3 +3,5 @@ pishu pesenku
 potomu chto ne mogu napisat kod
 123
 456
+
+for stash
